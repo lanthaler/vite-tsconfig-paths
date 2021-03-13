@@ -10,6 +10,8 @@
     <code>*.vue</code> imports
   </label>
 
+  <img src="@assets/icon.svg">
+
   <p>
     Recommended IDE setup:
     <a href="https://code.visualstudio.com/" target="_blank">VSCode</a>
